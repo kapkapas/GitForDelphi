@@ -1,3 +1,8 @@
+Ссылка по реализации объектной обертки для libgit2 на C#
+https://github.com/kapkapas/libgit2sharp
+
+## <>
+
 GitForDelphi - Delphi bindings to [libgit2](https://github.com/libgit2/libgit2)
 =================================
 
